@@ -14,5 +14,7 @@ So I hope this little repository will help someone and prevent them from spendin
 
 Alternatively, you can download neccessary files directly from this repository.
 
-*Information and files gathered from this issues: https://github.com/numediart/MBROLA/issues/46#issuecomment-2701729556, https://github.com/espeak-ng/espeak-ng/issues/723#issuecomment-2701825064
-So, this repository exists solely thanks to https://github.com/lethanner*
+
+*Information and files gathered from this issues: https://github.com/numediart/MBROLA/issues/46#issuecomment-2701729556, https://github.com/espeak-ng/espeak-ng/issues/723#issuecomment-2701825064*
+
+*So, this repository exists solely thanks to https://github.com/lethanner*
