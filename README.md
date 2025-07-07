@@ -12,4 +12,9 @@ So I hope this little repository will help someone and prevent them from spendin
 
 ***NOTE***: `mb-en1` here is just an example, use voice name from `\eSpeak NG\espeak-ng-data\mbrola\` with `mb-` prefix.
 
-*Alternatively, you can download neccessary files directly from this repository.*
+Alternatively, you can download neccessary files directly from this repository.
+
+*Information and files gathered from this issues:
+https://github.com/numediart/MBROLA/issues/46#issuecomment-2701729556
+https://github.com/numediart/MBROLA/issues/46#issuecomment-2701729556
+So, this repository exists solely thanks to https://github.com/lethanner*
