@@ -1,7 +1,7 @@
 *I had to search all over the web for the reason why Espeak NG won't load MBROLA voices on windows.
 So I hope this little repository will help someone and prevent them from spending time searching.*
 
-#How to set up MBROLA to use MBROLA voices in Espeak-NG on windows
+# How to set up MBROLA to use MBROLA voices in Espeak-NG on windows
 
 1. Download https://github.com/user-attachments/files/19094349/mbrola_ph.zip, extract folder and place it into `\eSpeak NG\espeak-ng-data\`
 2. Download https://archive.org/details/MbrolaTools35 and install
