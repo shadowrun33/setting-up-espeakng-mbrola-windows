@@ -11,3 +11,5 @@ So I hope this little repository will help someone and prevent them from spendin
 6. Now you can open command line, navigate to your `\eSpeak NG\` and run `start espeak-ng.exe -v mb-en1 "Hello world!"` to test it.
 
 ***NOTE***: `mb-en1` here is just an example, use voice name from `\eSpeak NG\espeak-ng-data\mbrola\` with `mb-` prefix.
+
+*Alternatively, you can download neccessary files directly from this repository.*
